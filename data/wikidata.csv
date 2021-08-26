@@ -1,5 +1,3 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q1457599,,,male,1955-06-16T00:00:00Z,11,,Q54417158,Ministro dos Negócios Estrangeiros de Angola,Q1457599-66873218-8CD9-4E8A-909F-766F8D71CF3C
-Q106857263,,,male,1950-01-01T00:00:00Z,7,,Q104420188,,Q106857263-f4f009b8-4967-160b-97eb-d404a05ced27
-Q60865113,Manuel Domingos Augusto,Manuel Domingos Augusto,male,1957-09-02T00:00:00Z,11,,Q54417158,Ministro dos Negócios Estrangeiros de Angola,Q60865113-3e336272-4ec8-8737-7bd2-cf004f2621b8
-Q96441964,Vera Daves,Vera Daves,female,1984-01-01T00:00:00Z,9,,Q6866123,,Q96441964-f77b1c89-b87b-4a21-8f3c-fca0d457bd06
+Q106857263,Jomo Fortunato,Jomo Fortunato,male,1950-01-01T00:00:00Z,7,,Q104420188,,Q106857263-f4f009b8-4967-160b-97eb-d404a05ced27
+Q96441964,Vera Daves,Vera Daves,female,1984-01-01T00:00:00Z,9,,Q6866123,Ministro das Finanças,Q96441964-f77b1c89-b87b-4a21-8f3c-fca0d457bd06

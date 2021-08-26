@@ -1,3 +1,5 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q106857263,Jomo Fortunato,Jomo Fortunato,male,1950-01-01T00:00:00Z,7,,Q104420188,,Q106857263-f4f009b8-4967-160b-97eb-d404a05ced27
-Q96441964,Vera Daves,Vera Daves,female,1984-01-01T00:00:00Z,9,,Q6866123,Ministro das Finanças,Q96441964-f77b1c89-b87b-4a21-8f3c-fca0d457bd06
+Q106857263,Jomo Fortunato,Jomo Fortunato,male,1961-03-28T00:00:00Z,11,,Q104420188,"Ministro da Cultura, Turismo e Ambiente",Q106857263-f4f009b8-4967-160b-97eb-d404a05ced27
+Q88650966,Sílvia Paula Valentim Lutucuta,Sílvia Lutucuta,female,1968-07-14T00:00:00Z,11,https://governo.gov.ao/ao/governo/ministros/,Q108282421,Ministra da Saúde,Q88650966-EFF6ED7E-872E-4602-A7E6-A323EC5CA962
+Q100575931,Tete António,Tete António,male,,,,Q205384,Ministro das Relações Exteriores,Q100575931-0D5A4B55-A849-4F17-AB77-325CC4FA9F59
+Q96441964,Vera Esperança dos Santos Daves de Sousa,Vera Daves,female,1983-05-18T00:00:00Z,11,https://governo.gov.ao/ao/governo/ministros/,Q6866123,Ministra das Finanças,Q96441964-f77b1c89-b87b-4a21-8f3c-fca0d457bd06

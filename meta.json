@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Angola",
+      "id": "Q916"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q108281351",
+      "start": "2017-09-27",
+      "parent": "Q5015488"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://governo.gov.ao/ao/governo/ministros/",
+        "title": "Portal Oficial do Governo da República de Angola - Ministros",
         "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+            "code": "pt",
+            "wikidata": "Q5146"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/angola-ministers"
 }

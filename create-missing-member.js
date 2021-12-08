@@ -11,7 +11,7 @@ module.exports = (label, dob) => {
     },
     descriptions: {
       en: 'Angolan politician',
-      ot: 'político angolano',
+      pt: 'político angolano',
     },
     claims: {
       P31: { value: 'Q5' }, // human

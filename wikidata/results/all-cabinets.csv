@@ -1,2 +1,3 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q65239221,Lourenco Cabinet,2017-09-27,11,,,,,,,Q5015488,Cabinet of Angola,,,,,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q108281204,Government of Unity and Reconciliation,1997-04-11,11,,,,,,,,,,,,,,
+,Q65239221,Lourenco Cabinet,2017-09-27,11,,,,,,,,,,,,,,

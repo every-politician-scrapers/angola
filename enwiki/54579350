@@ -220,10 +220,9 @@
             ]
           },
           "party": {
-            "text": "People's Movement for the Liberation of Angola (MPLA) (1974–present)",
+            "text": "MPLA (since 1974)",
             "links": [
               {
-                "text": "People's Movement for the Liberation of Angola",
                 "type": "internal",
                 "page": "MPLA"
               }

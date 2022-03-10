@@ -1,168 +1,19 @@
 {
-  "title": "Bornito de Sousa",
-  "pageID": 55096269,
-  "categories": [
-    "Living people",
-    "1953 births",
-    "Vice presidents of Angola",
-    "Territory Administration ministers of Angola",
-    "MPLA politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Bornito de Sousa Baltazar Diogo (born 23 July 1953) is an Angolan politician who is the vice president of Angola, since 2017.",
-              "links": [
-                {
-                  "text": "vice president of Angola",
-                  "type": "internal",
-                  "page": "vice president of Angola"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Bornito de Sousa Baltazar Diogo"
-                ]
-              }
-            },
-            {
-              "text": "He was the vice presidential candidate for the MPLA in the 2017 Angolan general election, running alongside João Lourenço and a member of the Constituent Assembly since 2010.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "MPLA"
-                },
-                {
-                  "text": "2017 Angolan general election",
-                  "type": "internal",
-                  "page": "2017 Angolan legislative election"
-                },
-                {
-                  "text": "João Lourenço",
-                  "type": "internal",
-                  "page": "João Lourenço (politician)"
-                }
-              ]
-            },
-            {
-              "text": "He was officially sworn in as vice president on 26 September 2017."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Angolan politician",
-          "template": "short description"
-        },
-        {
-          "date": "July 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "August 2017",
-          "template": "more citations needed"
-        },
-        {
-          "year": "1953",
-          "month": "07",
-          "day": "23",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Bornito de Sousa"
-          },
-          "image": {
-            "text": "Bornito de Sousa, 2017 (cropped).jpg"
-          },
-          "image_size": {
-            "text": "200px"
-          },
-          "office": {
-            "text": "Vice President of Angola",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vice President of Angola"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "26 September 2017"
-          },
-          "president": {
-            "text": "João Lourenço",
-            "links": [
-              {
-                "text": "João Lourenço",
-                "type": "internal",
-                "page": "João Lourenço (politician)"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Manuel Vicente",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manuel Vicente"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Territory Administration"
-          },
-          "term_start1": {
-            "text": "2 February 2010"
-          },
-          "term_end1": {
-            "text": "2017",
-            "number": 2017
-          },
-          "predecessor1": {
-            "text": "Virgílio de Fontes Pereira"
-          },
-          "successor1": {
-            "text": "Adão F.C. de Almeida"
-          },
-          "birth_date": {
-            "text": "July 23, 1953"
-          },
-          "birth_place": {
-            "text": "Quéssua, Malanje Province, Portuguese Angola",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Malanje Province"
-              }
-            ]
-          },
-          "party": {
-            "text": "MPLA",
-            "links": [
-              {
-                "type": "internal",
-                "page": "MPLA"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Maria José Rodrigues Ferreira Diogo"
-          },
-          "occupation": {
-            "text": "Teacher, politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Bornito de Sousa",
+  "image": "Bornito de Sousa, 2017 (cropped).jpg",
+  "image_size": "200px",
+  "office": "Vice President of Angola",
+  "term_start": "26 September 2017",
+  "president": "João Lourenço",
+  "predecessor": "Manuel Vicente",
+  "office1": "Minister of Territory Administration",
+  "term_start1": "2 February 2010",
+  "term_end1": "2017",
+  "predecessor1": "Virgílio de Fontes Pereira",
+  "successor1": "Adão F.C. de Almeida",
+  "birth_date": "July 23, 1953",
+  "birth_place": "Quéssua, Malanje Province, Portuguese Angola",
+  "party": "MPLA",
+  "spouse": "Maria José Rodrigues Ferreira Diogo",
+  "occupation": "Teacher, politician"
 }

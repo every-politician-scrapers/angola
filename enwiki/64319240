@@ -1,133 +1,14 @@
 {
-  "title": "Vera Daves",
-  "pageID": 64319240,
-  "categories": [
-    "Living people",
-    "1984 births",
-    "People from Luanda",
-    "Women government ministers of Angola",
-    "Finance ministers of Angola",
-    "Female finance ministers",
-    "MPLA politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Vera Esperança dos Santos Daves De Sousa (born 1984) is an Angolan politician who has been the country's Minister of Finance since 2019.",
-              "links": [
-                {
-                  "text": "Angolan",
-                  "type": "internal",
-                  "page": "Angola"
-                },
-                {
-                  "text": "Minister of Finance",
-                  "type": "internal",
-                  "page": "Minister of Finance (Angola)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Vera Esperança dos Santos Daves De Sousa"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Angolan politician",
-          "template": "short description"
-        },
-        {
-          "birth_year": "1984",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Vera Esperança dos Santos Daves De Sousa"
-          },
-          "image": {
-            "text": "Vera Daves Tvlivre Angola.jpg"
-          },
-          "caption": {
-            "text": "Daves givng a press conference in 2014"
-          },
-          "nationality": {
-            "text": "Angolan",
-            "links": [
-              {
-                "text": "Angolan",
-                "type": "internal",
-                "page": "Angola"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "Minister of Finance (Angola)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "8 October 2019"
-          },
-          "predecessor1": {
-            "text": "Archer Mangueira",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Archer Mangueira"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "incumbent"
-          },
-          "birth_place": {
-            "text": "Luanda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luanda"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1984 (age 38)"
-          },
-          "alma_mater": {
-            "text": "Catholic University of Angola",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Catholic University of Angola"
-              }
-            ]
-          },
-          "party": {
-            "text": "Popular Movement for the Liberation of Angola",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Popular Movement for the Liberation of Angola"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Vera Esperança dos Santos Daves De Sousa",
+  "image": "Vera Daves Tvlivre Angola.jpg",
+  "caption": "Daves givng a press conference in 2014",
+  "nationality": "Angolan",
+  "office1": "Minister of Finance",
+  "term_start1": "8 October 2019",
+  "predecessor1": "Archer Mangueira",
+  "successor1": "incumbent",
+  "birth_place": "Luanda",
+  "birth_date": "1984 (age 38)",
+  "alma_mater": "Catholic University of Angola",
+  "party": "Popular Movement for the Liberation of Angola"
 }

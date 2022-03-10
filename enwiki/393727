@@ -1,316 +1,35 @@
 {
-  "title": "Fernando da Piedade Dias dos Santos",
-  "pageID": 393727,
-  "categories": [
-    "Prime Ministers of Angola",
-    "Presidents of the National Assembly (Angola)",
-    "1950 births",
-    "Living people",
-    "Vice presidents of Angola",
-    "Interior ministers of Angola",
-    "MPLA politicians",
-    "Agostinho Neto University alumni",
-    "21st-century politicians",
-    "21st-century Angolan people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Fernando da Piedade Dias dos Santos (born 5 March 1950), known as Nandó, is an Angolan politician who was the first vice president of Angola from February 2010 to September 2012.",
-              "links": [
-                {
-                  "text": "Angolan",
-                  "type": "internal",
-                  "page": "Angola"
-                },
-                {
-                  "text": "vice president of Angola",
-                  "type": "internal",
-                  "page": "vice president of Angola"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Fernando da Piedade Dias dos Santos",
-                  "Nandó"
-                ]
-              }
-            },
-            {
-              "text": "He was the prime minister of Angola from 2002 to 2008 and president of the National Assembly of Angola from 2008 to 2010.",
-              "links": [
-                {
-                  "text": "prime minister of Angola",
-                  "type": "internal",
-                  "page": "Heads of government of Angola"
-                },
-                {
-                  "text": "National Assembly of Angola",
-                  "type": "internal",
-                  "page": "National Assembly (Angola)"
-                }
-              ]
-            },
-            {
-              "text": "He has again served as president of the National Assembly since 2012."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Angolan politician",
-          "template": "short description"
-        },
-        {
-          "first": "Dias",
-          "second": "dos Santos",
-          "template": "portuguese name"
-        },
-        {
-          "year": "1950",
-          "month": "03",
-          "day": "05",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Fernando da Piedade Dias dos Santos"
-          },
-          "image": {
-            "text": "Fernando da Piedade Dias dos Santos (cropped).jpg"
-          },
-          "office": {
-            "text": "President of the National Assembly of Angola",
-            "links": [
-              {
-                "text": "President",
-                "type": "internal",
-                "page": "List of Presidents of the National Assembly of Angola"
-              },
-              {
-                "text": "National Assembly of Angola",
-                "type": "internal",
-                "page": "National Assembly (Angola)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "27 September 2012"
-          },
-          "predecessor": {
-            "text": "Paulo Kassoma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paulo Kassoma"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of the Interior"
-          },
-          "term_start1": {
-            "text": "1999",
-            "number": 1999
-          },
-          "term_end1": {
-            "text": "2002",
-            "number": 2002
-          },
-          "predecessor1": {
-            "text": "Santana André Pitra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Santana André Pitra"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "O. de J.Serra Van-Dúnem",
-            "links": [
-              {
-                "text": "O. de J.Serra Van-Dúnem",
-                "type": "internal",
-                "page": "Osvaldo de Jesus Serra Van-Dúnem"
-              }
-            ]
-          },
-          "office2": {
-            "text": "President of the National Assembly of Angola",
-            "links": [
-              {
-                "text": "President",
-                "type": "internal",
-                "page": "List of Presidents of the National Assembly of Angola"
-              },
-              {
-                "text": "National Assembly of Angola",
-                "type": "internal",
-                "page": "National Assembly (Angola)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "30 September 2008"
-          },
-          "term_end2": {
-            "text": "9 February 2010"
-          },
-          "predecessor2": {
-            "text": "Roberto Francisco de Almeida",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Roberto Francisco de Almeida"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Paulo Kassoma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paulo Kassoma"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Vice President of Angola",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vice President of Angola"
-              }
-            ]
-          },
-          "president3": {
-            "text": "José Eduardo dos Santos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Eduardo dos Santos"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Position established"
-          },
-          "successor3": {
-            "text": "Manuel Vicente",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manuel Vicente"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "18 February 2010"
-          },
-          "term_end3": {
-            "text": "26 September 2012"
-          },
-          "office4": {
-            "text": "4th Prime Minister of Angola",
-            "links": [
-              {
-                "text": "4th",
-                "type": "internal",
-                "page": "List of heads of government of Angola"
-              },
-              {
-                "type": "internal",
-                "page": "Prime Minister of Angola"
-              }
-            ]
-          },
-          "president4": {
-            "text": "José Eduardo dos Santos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Eduardo dos Santos"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Position re-established",
-            "formatting": {
-              "italic": [
-                "Position re-established"
-              ]
-            }
-          },
-          "successor4": {
-            "text": "Paulo Kassoma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paulo Kassoma"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "6 December 2002"
-          },
-          "term_end4": {
-            "text": "30 September 2008"
-          },
-          "birth_date": {
-            "text": "March 5, 1950"
-          },
-          "birth_place": {
-            "text": "Luanda, Portuguese Angola",
-            "links": [
-              {
-                "text": "Luanda",
-                "type": "internal",
-                "page": "Luanda, Angola"
-              },
-              {
-                "type": "internal",
-                "page": "Portuguese Angola"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Maria Tomé Dias dos Santos"
-          },
-          "children": {
-            "text": "7",
-            "number": 7
-          },
-          "alma_mater": {
-            "text": "Agostinho Neto University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Agostinho Neto University"
-              }
-            ]
-          },
-          "party": {
-            "text": "MPLA",
-            "links": [
-              {
-                "text": "MPLA",
-                "type": "internal",
-                "page": "Popular Movement for the Liberation of Angola"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Fernando da Piedade Dias dos Santos",
+  "image": "Fernando da Piedade Dias dos Santos (cropped).jpg",
+  "office": "President of the National Assembly of Angola",
+  "term_start": "27 September 2012",
+  "predecessor": "Paulo Kassoma",
+  "office1": "Minister of the Interior",
+  "term_start1": "1999",
+  "term_end1": "2002",
+  "predecessor1": "Santana André Pitra",
+  "successor1": "O. de J.Serra Van-Dúnem",
+  "office2": "President of the National Assembly of Angola",
+  "term_start2": "30 September 2008",
+  "term_end2": "9 February 2010",
+  "predecessor2": "Roberto Francisco de Almeida",
+  "successor2": "Paulo Kassoma",
+  "office3": "Vice President of Angola",
+  "president3": "José Eduardo dos Santos",
+  "predecessor3": "Position established",
+  "successor3": "Manuel Vicente",
+  "term_start3": "18 February 2010",
+  "term_end3": "26 September 2012",
+  "office4": "4th Prime Minister of Angola",
+  "president4": "José Eduardo dos Santos",
+  "predecessor4": "Position re-established",
+  "successor4": "Paulo Kassoma",
+  "term_start4": "6 December 2002",
+  "term_end4": "30 September 2008",
+  "birth_date": "March 5, 1950",
+  "birth_place": "Luanda, Portuguese Angola",
+  "spouse": "Maria Tomé Dias dos Santos",
+  "children": "7",
+  "alma_mater": "Agostinho Neto University",
+  "party": "MPLA"
 }

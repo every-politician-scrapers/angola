@@ -2,7 +2,7 @@ id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q846091,President of Angola,Q916,Q916,Q3382672,,1975-11-11,,,,President of Angola
 Q3382672,Vice President of Angola,Q916,Q916,,,2010-02-18,,,,Vice President of Angola
 Q65081802,Minister of Agriculture and Fisheries,Q916,Q916,,,,,,,Minister of Agriculture and Forestry (Angola)
-Q65081943,Minister of Culture of Angola,Q916,Q916,,,,,,,Minister of Culture (Angola)
+Q65081943,Minister of Culture of Angola,Q916,Q916,,,,,,,"Minister of Culture, Tourism and the Environment"
 Q104420188,"Minister of Culture, Tourism and Environment of Angola",Q916,Q916,,,2020,,,,
 Q54416499,Minister of National Defence,Q916,Q916,,,,,,,
 Q65081971,Minister of Economy and Planning,Q916,Q916,,,,,,,Minister of Economy and Planning (Angola)

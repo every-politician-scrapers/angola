@@ -1,28 +1,66 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q846091,President of Angola,Q916,Q916,Q3382672,,1975-11-11,,,,President of Angola
 Q3382672,Vice President of Angola,Q916,Q916,,,2010-02-18,,,,Vice President of Angola
+Q20706562,Prime Minister of Angola,Q916,Q916,,,1975-11-14,2010-02-04,,,Prime Minister of Angola
+Q111945427,Minister of Agriculture of Angola,Q916,Q916,,,,,,,
 Q65081802,Minister of Agriculture and Fisheries,Q916,Q916,,,,,,,Minister of Agriculture and Forestry (Angola)
+Q111945391,Minister of Agriculture and Forestry,Q916,Q916,,,,,,,
+Q111945531,Minister of Agriculture and Rural Development,Q916,Q916,,,,,,,
+Q111945533,Minister of Assistance and Social Reintegration,Q916,Q916,,,,,,,
+Q111945539,Minister of Commerce,Q916,Q916,,,,,,,
+Q111945541,Minister of Construction,Q916,Q916,,,,,,,
+Q111945542,Minister of Construction and Public Works,Q916,Q916,,,,,,,
 Q65081943,Minister of Culture of Angola,Q916,Q916,,,,,,,"Minister of Culture, Tourism and the Environment"
 Q104420188,"Minister of Culture, Tourism and Environment of Angola",Q916,Q916,,,2020,,,,
 Q54416499,Minister of National Defence,Q916,Q916,,,,,,,
+Q111945544,Minister of Economic and Social Development,Q916,Q916,,,,,,,
+Q111945546,Minister of Economy,Q916,Q916,,,,,,,
 Q65081971,Minister of Economy and Planning,Q916,Q916,,,,,,,Minister of Economy and Planning (Angola)
 Q65081999,Minister of Education,Q916,Q916,,,,,,,Minister of Education (Angola)
 Q65082136,Minister of Energy and Water,Q916,Q916,,,,,,,Minister of Energy and Water (Angola)
+Q111945547,Minister of Environment,Q916,Q916,,,,,,,
 Q205384,Minister of External Relations,Q916,Q916,,,,,,,Minister of External Relations (Angola)
+Q111945548,Minister of Family Issues and the Promotion of Women,Q916,Q916,,,,,,,
 Q6866123,Minister of Finance of Angola,Q916,Q916,,,1976,,,,Minister of Finance (Angola)
+Q111945550,Minister of Fishing,Q916,Q916,,,,,,,
 Q54417158,Minister of Foreign Affairs of Angola,Q916,Q916,,,,,,,
+Q111945551,Minister of Geology and Mines,Q916,Q916,,,,,,,
 Q108282421,Minister of Health of Angola,Q916,Q916,,,,,,,
+Q111945552,Minister of Higher Education,Q916,Q916,,,,,,,
 Q109984666,"Minister of Higher Education, Science, Technology and Innovation",Q916,Q916,,,,,,,
+Q111945555,Minister of Hotel and Tourism,Q916,Q916,,,,,,,
+Q111945556,Minister of Human Rights,Q916,Q916,,,,,,,
+Q111945557,Minister of Industry,Q916,Q916,,,,,,,
 Q109984659,Minister of Industry and Commerce,Q916,Q916,,,,,,,
 Q54479352,Minister of the Interior of Angola,Q916,Q916,,,,,,,
+Q111945559,Minister of Justice,Q916,Q916,,,,,,,
 Q109984660,Minister of Justice and Human Rights,Q916,Q916,,,,,,,
+Q111945561,"Minister of Labour, Public Administration and Social Security",Q916,Q916,,,,,,,
 Q54483257,Minister of Mineral Resources and Petroleum,Q916,Q916,,,,,,,
+Q111945562,Minister of News Media,Q916,Q916,,,,,,,
+Q111945564,Minister of Parliamentary Issues,Q916,Q916,,,,,,,
+Q111945565,Minister of Planning,Q916,Q916,,,,,,,
+Q111945566,Minister of Planning and Territorial Development,Q916,Q916,,,,,,,
+Q111945569,Minister of Posts and Telecommunications,Q916,Q916,,,,,,,
 Q65081689,"Minister of Public Administration, Labour and Social Security",Q916,Q916,,,,,,,"Minister of Public Administration, Labour and Social Security (Angola)"
 Q65081611,Minister of Construction and Public Works,Q916,Q916,,,,,,,Minister of Construction and Public Works (Angola)
+Q111945570,Minister of Public Works and Urban Affairs,Q916,Q916,,,,,,,
+Q111945571,Minister of Science and Technology,Q916,Q916,,,,,,,
+Q111945573,Minister of Security Household,Q916,Q916,,,,,,,
 Q65081634,"Minister of Social Action, Family and Gender Promotion",Q916,Q916,,,,,,,"Minister of Social Action, Family and Gender Promotion (Angola)"
+Q111945575,Minister of Social Communications,Q916,Q916,,,,,,,
 Q109984669,Minister of Telecommunications and Information Technologies,Q916,Q916,,,,,,,
 Q65081666,Minister of Territory Administration and State Reform,Q916,Q916,,,,,,,Minister of Territory Administration and State Reform (Angola)
+Q111945576,Minister of Territory and State Reform,Q916,Q916,,,,,,,
+Q111945578,Minister of Trade,Q916,Q916,,,,,,,
 Q109984664,Minister of Transport,Q916,Q916,,,,,,,
+Q111945579,Minister of Urban Affairs and Construction,Q916,Q916,,,,,,,
+Q111945580,Minister of Urban Affairs and Environment,Q916,Q916,,,,,,,
+Q111945583,Minister of Urban Affairs and Housing,Q916,Q916,,,,,,,
+Q111945584,Minister of Urban Planning and Housing,Q916,Q916,,,,,,,
+Q111945585,Minister of Urbanism and Housing,Q916,Q916,,,,,,,
+Q111945587,Minister of War Veterans,Q916,Q916,,,,,,,
+Q111945588,Minister of Women's Affairs,Q916,Q916,,,,,,,
 Q109984686,Minister of Youth and Sports,Q916,Q916,,,,,,,
 Q29960711,President of the National Assembly of Angola,,Q1969479,,,,,,,
 Q109984920,Governor of the National Bank of Angola,Q916,,,,,,,,

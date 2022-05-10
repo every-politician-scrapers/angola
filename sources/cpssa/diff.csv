@@ -1,81 +1,64 @@
 @@,item,itemlabel,position,positionlabel,start,end
-+++,,Adao Francisco Correia de Almeida,Q111945576,Minister of Territory and State Reform,2017-09-26,2020-01-17
-+++,,Adão do Nascimento,Q111945552,Minister of Higher Education,2012-09-26,2017-09-26
-+++,,Albertina Julia Hamukuya,Q108282421,Minister of Health,2000-01-28,2008-10-03
-+++,,Ana Paula Elias,Q65081999,Minister of Education,2019-10-08,2020-01-17
-+++,,Ana Paula de Carvalho,Q111945584,Minister of Urban Planning and Housing,2017-09-26,2020-01-17
+->,Q58306,Alfonso de Sousa dos Anjos,Q54417158,Minister of Foreign Affairs,2008-10-01->2008-10-03,2010-11-26->2010-11-20
+->,Q109984875,Ana Paula do Sacramento Neto,Q109984686,Minister of Youth and Sports,2017-09-27->2017-09-26,NULL->2020-01-17
+---,Q111954368,Angelo Barros da Veiga Tavares,Q54479352,Minister of the Interior,2017-09-26,2019-07-24
+---,Q111954368,Angelo Barros da Veiga Tavares,Q54479352,Minister of the Interior,2012-09-26,2017-09-26
 +++,,Angelo Barros da Veiga Tavares,Q54479352,Minister of the Interior,2017-09-26,2019-07-24
 +++,,Angelo Barros da Veiga Tavares,Q54479352,Minister of the Interior,2012-09-26,2017-09-26
-+++,,Anibal Joao da Silva Melo,Q111945575,Minister of Social Communications,2017-09-26,2020-01-17
-+++,,Bernarda Goncalves da Silva,Q111945557,Minister of Industry,2012-09-26,2017-09-26
+->,Q373591,António Paulo Kassoma,Q20706562,Prime Minister,2008-09-30->2008-10-03,2010-02-05->2010-02-06
+---,Q60918484,Archer Mangueira,Q6866123,Minister of Finance of Angola,2016-09-05,2019-10-08
+->,Q16190785,Armando Manuel,Q6866123,Minister of Finance,2013-05-09->2013-05-07,2016-09-05->2016-08-28
++++,Q60918484,Augusto Archer de Sousa Mangueira,Q6866123,Minister of Finance,2017-09-26,2019-10-08
++++,Q60918484,Augusto Archer de Sousa Mangueira,Q6866123,Minister of Finance,2016-08-28,2017-09-26
+---,Q59156960,Augusto da Silva Tomás,Q109984664,Minister of Transport,2017-09-26,2020-01-17
+---,Q59156960,Augusto da Silva Tomás,Q109984664,Minister of Transport,2008-10-03,2017-09-26
++++,Q59156960,Augusto da Silva Tomás,Q109984664,Minister of Transport,2017-09-26,2020-01-17
++++,Q59156960,Augusto da Silva Tomás,Q109984664,Minister of Transport,2008-10-03,2017-09-26
+---,Q111954371,Bernarda Goncalves da Silva,Q111945557,Minister of Industry,2012-09-26,2017-09-26
+---,Q111954371,Bernarda Goncalves da Silva,Q111945557,Minister of Industry,2017-09-26,2020-01-17
 +++,,Bernarda Goncalves da Silva,Q111945557,Minister of Industry,2017-09-26,2020-01-17
++++,,Bernarda Goncalves da Silva,Q111945557,Minister of Industry,2012-09-26,2017-09-26
 ---,Q16336949,Bornito de Sousa,Q3382672,Vice President of Angola,2017-09-26,
-+++,,Branca Manuel da Costa Neto do Espírito Santo,Q111945585,Minister of Urbanism and Housing,2016-03-07,2017-09-26
 ->,Q111916352,Carlos Alberto Lopez,Q6866123,Minister of Finance,2010-02-01->2010-02-06,2013-05-01->2013-05-07
+---,Q5044792,Carolina Cerqueira,Q65081943,Minister of Culture,2017-09-26,2020-01-17
+---,Q5044792,Carolina Cerqueira,Q65081943,Minister of Culture,2016-03-07,2017-09-26
 +++,Q5044792,Carolina Cerqueira,Q65081943,Minister of Culture,2017-09-26,2020-01-17
 +++,Q5044792,Carolina Cerqueira,Q65081943,Minister of Culture,2016-03-07,2017-09-26
-+++,,Cândido Pereira dos Santos Van-Duném,Q54416499,Minister of Defence,2010-02-06,2014-04-23
-+++,,Desiderio da Graca Verissimo da Costa,Q54483257,Minister of Mineral Resources and Petroleum,2002-12-05,2008-10-03
-+++,,Diekumpuna Sita Jose,Q111945580,Minister of Urban Affairs and Environment,2004-10-23,2008-10-03
-+++,,Emanuela Afonso Vieira Lopes,Q65082136,Minister of Energy and Water,2008-10-03,2012-09-26
-+++,,Fernando Alberto de Lemos Soares da Fonseca,Q111945579,Minister of Urban Affairs and Construction,2010-11-20,2012-09-26
-+++,,Genoveva da Conceicao Lino,Q111945548,Minister of Family Issues and the Promotion of Women,2008-10-03,2012-09-26
-+++,,Gilberto Buta Lutukuta,Q111945531,Minister of Agriculture and Rural Development,1999-01-29,2008-10-03
-+++,,Goncalves Manuel Muandumba,Q109984686,Minister of Youth and Sports,2008-10-03,2017-09-26
-+++,,Jesus Faria Maiato,Q111945561,"Minister of Labour, Public Administration and Social Security",2017-09-26,2020-01-17
-+++,,Joao Baptista Kussumua,Q111945533,Minister of Assistance and Social Reintegration,2002-04-02,2017-09-26
-+++,,Joao Baptista Ngandagina,Q111945571,Minister of Science and Technology,1999-02-24,2008-10-03
-+++,,Joao Manuel Lorenco,Q54416499,Minister of Defence,2014-04-23,2017-09-26
-+++,,Joaquim Ekuma Muafumua,Q111945578,Minister of Trade,2004-10-23,2008-10-03
-+++,,Joffre Van-Dunem Junior,Q111945578,Minister of Trade,2017-09-26,2020-01-17
-+++,,Jorge Alicerces Valentim,Q111945555,Minister of Hotel and Tourism,1997-04-09,2008-10-03
-+++,,Jose Marcos Barrica,Q109984686,Minister of Youth and Sports,1999-01-29,2008-10-03
-+++,,Jose Maria Botelho de Vasconcelhos,Q54483257,Minister of Mineral Resources and Petroleum,1999-01-29,2002-12-05
-+++,,José António da Conceição e Silva,Q111945585,Minister of Urbanism and Housing,2012-09-26,2016-03-07
-+++,,José Luís de Matos,Q111945575,Minister of Social Communications,2012-09-26,2017-09-26
-+++,,José Vieira Dias Van-Duném,Q108282421,Minister of Health,2008-10-03,2016-03-07
+->,Q75837385,Diamantino Pedro Azevedo,Q54483257,Minister of Mineral Resources and Petroleum,2017-09-01->2017-09-26,NULL->2020-01-17
+->,Q109984873,Eugénio César Laborinho,Q54479352,Minister of the Interior,2019-07-25->2019-07-24,NULL->2020-01-17
+->,Q109984872,Faustina Fernandes Inglês de Almeida Alves->Victoria Francisco Correia da Conceicao,Q65081634,"Minister of Social Action, Family and Gender Promotion",2019-01-01->2017-09-26,NULL->2020-01-17
+->,Q310815,Fernando da Piedade,Q54479352,Minister of the Interior,1999-01-01->1999-01-29,2002-01-01->2002-12-05
+---,Q310815,Fernando da Piedade Dias dos Santos,Q20706562,Prime Minister of Angola,2002-12-06,2008-09-30
+->,Q310815,Fernando da Piedade Dias dos Santos->Fernando da Piedade,Q3382672,Vice President of Angola->Vice President,2010-02-18->2010-02-06,2012-09-26
+->,Q109984862,Francisco Manuel Monteiro de Queiroz->Rui Jorge Carneiro Mangueira,Q109984660,Minister of Justice and Human Rights,2017-09-27->2012-09-26,NULL->2017-09-26
+->,Q1457599,George Rebelo Chicoty,Q54417158,Minister of Foreign Affairs,2010-11-26->2010-11-20,2017-09-28->2017-09-26
+---,Q109984647,Joao Baptista Borges,Q65082136,Minister of Energy and Water,2012-09-26,2017-09-26
++++,Q109984647,Joao Baptista Borges,Q65082136,Minister of Energy and Water,2017-09-26,2020-01-17
++++,Q109984647,Joao Baptista Borges,Q65082136,Minister of Energy and Water,2012-09-26,2017-09-26
+->,Q3187284,Joao Bernardo de Miranda,Q54417158,Minister of Foreign Affairs,1999-01-01->1999-01-29,2008-10-01->2008-10-03
+->,Q28650390,Joao Manuel Lorenco,Q54416499,Minister of Defence,2014-04-22->2014-04-23,2017-09-26
+->,Q3186515,José Pedro de Morais,Q6866123,Minister of Finance,2002-12-01->2002-12-05,2008-10-01->2008-10-03
+---,Q111954397,José de Carvalho da Rocha,Q109984669,Minister of Telecommunications and Information Technologies,2017-09-26,2020-01-17
+---,Q111954397,José de Carvalho da Rocha,Q109984669,Minister of Telecommunications and Information Technologies,2008-10-03,2017-09-26
 +++,,José de Carvalho da Rocha,Q109984669,Minister of Telecommunications and Information Technologies,2017-09-26,2020-01-17
 +++,,José de Carvalho da Rocha,Q109984669,Minister of Telecommunications and Information Technologies,2008-10-03,2017-09-26
-+++,,José dos Santos da Silva Ferreira,Q111945583,Minister of Urban Affairs and Housing,2010-02-06,2010-11-20
-+++,Q109984647,Joao Baptista Borges,Q65082136,Minister of Energy and Water,2012-09-26,2017-09-26
----,Q28650390,João Lourenço,Q54416499,Minister of National Defence,2014-04-22,2017-09-26
+---,Q109984647,João Baptista Borges,Q65082136,Minister of Energy and Water,2017-09-26,
 ->,Q105491332,Julio Bessa,Q6866123,Minister of Finance of Angola->Minister of Finance,2000-10-08->2000-10-09,2002-12-04->2002-12-05
 ->,Q6444389,Kundi Paihama,Q54416499,Minister of Defence,2002-01-01->1999-01-29,2010-01-01->2010-02-06
-+++,,Licinio Tavares Ribeiro,Q111945569,Minister of Posts and Telecommunications,1997-04-09,2008-10-03
-+++,,Luis Filipe da Silva,Q65082136,Minister of Energy and Water,1999-01-29,2002-12-05
-+++,,Mankenda Ambroise,Q111945551,Minister of Geology and Mines,2008-10-03,2010-02-06
-+++,,Manuel Antonio Africano,Q111945551,Minister of Geology and Mines,2000-01-28,2008-10-03
-+++,,Manuel Antonoi Rabelais,Q111945575,Minister of Social Communications,2008-10-03,2010-02-06
-+++,,Manuel Bunjo,Q111945551,Minister of Geology and Mines,1999-02-24,2000-01-28
 ->,Q60865113,Manuel Domingos Augusto,Q54417158,Minister of Foreign Affairs,2017-09-28->2017-09-26,2020-01-01->2020-01-17
-+++,,Manuel Francisco Queirós,Q111945551,Minister of Geology and Mines,2012-09-26,2017-09-26
-+++,,Manuel Nunes Junior,Q111945544,Minister of Economic and Social Development,2017-09-26,2020-01-17
-+++,,Manuel Nunes Junior,Q111945546,Minister of Economy,2008-10-03,2010-09-27
 ---,Q973742,Manuel Vicente,Q3382672,Vice President of Angola,2012-09-26,2017-09-26
-+++,,Manuel da Costa Aragao,Q111945559,Minister of Justice,2004-12-17,2008-10-03
-+++,,Marcos Alexandre Nhunga,Q111945427,Minister of Agriculture,2016-08-28,2017-09-26
-+++,,Marcos Alexandre Nhunga,Q111945391,Minister of Agriculture and Forestry,2017-09-26,2019-07-24
-+++,,Maria de Cândida Pereira Teixeira,Q65081999,Minister of Education,2017-09-26,2019-10-08
-+++,,Maria de Cândida Pereira Teixeira,Q111945571,Minister of Science and Technology,2008-10-03,2012-09-26
 ->,Q109984865,Maria do Rosário Braganca Sambo,Q109984666,"Minister of Higher Education, Science, Technology and Innovation",2017-01-01->2017-09-26,NULL->2020-01-17
-+++,,Maria Ângela Teixeira Braganda,Q111945555,Minister of Hotel and Tourism,2017-09-26,2020-01-17
-+++,,Mpinda Simao,Q65081999,Minister of Education,2010-02-06,2017-09-26
 ->,Q6222208,Osvaldo Serra van Dunem,Q54479352,Minister of the Interior,2002-01-01->2002-12-05,2006-01-01->2006-02-24
-+++,,Paulino Domingos Baptista,Q111945555,Minister of Hotel and Tourism,2016-01-11,2017-09-26
-+++,,Pedro Jose van Dunem,Q111945587,Minister of War Veterans,1997-04-09,2010-02-06
+---,Q111954419,Pedro Mutinde,Q111945555,Minister of Hotel and Tourism,2008-10-03,2010-02-06
+---,Q111954419,Pedro Mutinde,Q111945555,Minister of Hotel and Tourism,2010-03-16,2016-01-11
 +++,,Pedro Mutinde,Q111945555,Minister of Hotel and Tourism,2010-03-16,2016-01-11
 +++,,Pedro Mutinde,Q111945555,Minister of Hotel and Tourism,2008-10-03,2010-02-06
 ---,Q109984863,Ricardo Daniel Sandão Queirós Viegas de Abreu,Q109984664,Minister of Transport,2018-01-01,
 ->,Q7351774,Roberto Leal Monteiro,Q54479352,Minister of the Interior,2006-01-01->2006-02-24,2010-01-01->2010-09-27
-+++,,Rosa Luís de Sousa Micolo,Q111945564,Minister of Parliamentary Issues,2012-09-26,2017-09-26
-+++,,Rosa Maria Martins da Cruz e Silva,Q65081943,Minister of Culture,2008-10-03,2016-03-07
-+++,,Rosa Pedro Pacavira de Matos,Q111945578,Minister of Trade,2012-09-26,2016-03-07
-+++,,Salviano de Jesus Sequeira,Q54416499,Minister of Defence,2017-09-26,2020-01-17
-+++,,Sebastiao Antonio Martins,Q54479352,Minister of the Interior,2010-09-27,2012-09-26
 ->,Q111916354,Severim de Morais,Q6866123,Minister of Finance,2008-10-01->2008-10-03,2010-02-01->2010-02-06
 ->,Q88650966,Silvia Paula Valentim Lutucuta,Q108282421,Minister of Health,2017-09-27->2017-09-26,NULL->2020-01-17
 ->,Q96441964,Vera Daves,Q6866123,Minister of Finance,2019-10-08,NULL->2020-01-17
+---,Q111954426,Victoria Francisco Lopes de Barros Neto,Q111945550,Minister of Fishing,2017-09-26,2020-01-17
+---,Q111954426,Victoria Francisco Lopes de Barros Neto,Q111945550,Minister of Fishing,2012-09-26,2017-09-26
 +++,,Victoria Francisco Lopes de Barros Neto,Q111945550,Minister of Fishing,2017-09-26,2020-01-17
 +++,,Victoria Francisco Lopes de Barros Neto,Q111945550,Minister of Fishing,2012-09-26,2017-09-26
-+++,,Victorino Domingos Hossi,Q111945539,Minister of Commerce,1997-04-09,2004-10-23
-+++,,Waldemar Pires Alexandre,Q111945541,Minister of Construction,2013-05-07,2017-09-26

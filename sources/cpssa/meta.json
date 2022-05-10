@@ -1,0 +1,12 @@
+{
+    "jurisdiction": {
+      "name": "Angola",
+      "id": "Q916"
+    },
+    "cabinet": {
+      "parent": "Q5015488"
+    },
+    "source": {
+        "id":   "Q96743901"
+    }
+}

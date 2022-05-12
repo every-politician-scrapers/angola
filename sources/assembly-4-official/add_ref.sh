@@ -10,6 +10,8 @@ then
   return
 fi
 
+item=$(echo $wd_rows | qsv select item | qsv behead)
+
 off_rows=$(qsv search -i $1 scraped.csv)
 off_count=$(printf "%s" "$off_rows" | grep -c "^")
 
@@ -22,7 +24,11 @@ fi
 
 statementid=$(echo $wd_rows | qsv select psid | qsv behead)
 claims=$(echo $off_rows | qsv select name,homepage | qsv behead | qsv fmt --out-delimiter " ")
+name=$(echo $off_rows | qsv select name | qsv behead | qsv fmt --out-delimiter " ")
 
 echo "$statementid $claims"
 echo "$statementid $claims" | xargs wd ar --maxlag 20 add-source-name.js > /dev/null
+# echo "wd add-alias $item en $name"
+
+
 

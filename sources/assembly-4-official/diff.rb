@@ -7,7 +7,7 @@ CSV::Converters[:uppercase] = ->(val) { val.to_s.upcase }
 
 class Comparison < EveryPoliticianScraper::NulllessComparison
   def columns
-    super - %i(arealabel partylabel) + %i[psid]
+    super - %i(arealabel partylabel)
   end
 
   def wikidata_csv_options

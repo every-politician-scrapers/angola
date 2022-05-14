@@ -1,0 +1,15 @@
+{
+    "jurisdiction": {
+      "name": "Angola",
+      "id": "Q916"
+    },
+    "source": {
+        "url":   "https://governo.gov.ao/ao/governo/governadores-provinciais/",
+        "title": "Portal Oficial do Governo da República de Angola - Governadores Provinciais",
+        "lang":  {
+            "code": "pt",
+            "wikidata": "Q5146"
+        }
+    },
+    "agent": "every-politican-scrapers/angola-governors"
+}

@@ -1,19 +1,19 @@
-province,provinceLabel,position,positionLabel,person,name,source,sourceDate,psid
-Q191299,Bengo Province,Q97482096,Governor of Bengo,Q97482106,Mara Baptista Quiosa,,,Q97482106-fc2886bc-4846-4830-5ace-ab4326a6e7b4
-Q212786,Benguela Province,Q97496421,Governor of Benguela,Q111975111,Rui Luís Falcão Pinto de Andrade,,,Q111975111-A10EEFA2-5EC9-40D7-9ECE-BD7DB986FF7A
-Q213977,Bié Province,Q97496439,Governor of Bié,Q111974360,Pereira Alfredo,,,Q111974360-A913E47E-3D5D-47BB-9BA2-1BE00F8DFB13
-Q168787,Cabinda Province,Q97496450,Governor of Cabinda,Q111954411,Marcos Alexandre Nhunga,,,Q111954411-4153A407-4B84-4A4F-818A-69DCEF4138B1
-Q215268,Cuando Cubango Province,Q97496459,Governor of Cuando Cubango,Q111994437,José Martins,,,Q111994437-CA54797D-0C61-4D75-9866-CCAC18C17442
-Q216834,Cuanza Norte Province,Q97496560,Governor of Cuanza Norte,Q111994450,Adriano Mendes de Carvalho,,,Q111994450-794C7315-BA8F-4F82-9231-50726D5EC367
-Q216998,Cuanza Sul,Q97496672,Governor of Cuanza Sul,Q111974283,Job Pedro Castelo Capapinha,,,Q111974283-80381946-C63F-424E-956B-FCBE742E3793
-Q216987,Cunene Province,Q97496684,Governor of Cunene,Q111974383,Vígilio da Ressureição Bernardo Adriano Tyova,,,Q111974383-04D1A07A-AE34-4C29-886A-27FE970EFC98
-Q218848,Huambo Province,Q97496692,Governor of Huambo,Q16337620,Joana Lina,,,Q16337620-46BBF5C9-9FEB-431B-8D6B-809628A59F0B
-Q214572,Huíla Province,Q97496784,Governor of Huíla,Q111994516,Luís da Fonseca Nunes,,,Q111994516-D37C1F6A-3E31-4F64-84D2-9D644AB48C93
-Q190066,Luanda Province,Q97496789,Governor of Luanda,Q111974278,Joana Lina Ramos Baptista Cândido,,,Q111974278-6D3E5AC4-CE6E-45E5-AD39-11D536379544
-Q214221,Lunda Norte Province,Q97496855,Governor of Lunda Norte,Q97496861,Ernesto Muangala,,,Q97496861-308f1567-465a-de7a-3391-d5de7b63f39e
-Q219648,Lunda Sul Province,Q97496869,Governor of Lunda Sul,Q97496874,Daniel Félix Neto,,,Q97496874-be203f61-4ff7-bea1-c4bc-4b6b714ce702
-Q219072,Malanje Province,Q97496909,Governor of Malanje,Q111994591,Norberto Fernandes dos Santos,,,Q111994591-02799A10-3716-405B-9E17-96F83D3E8D68
-Q173988,Moxico Province,Q97496930,Governor of Moxico,Q111954382,Goncalves Manuel Muandumba,,,Q111954382-F4BB2FFD-E8A6-4FE4-9F6C-0DD0BE83BC38
-Q216819,Namibe Province,Q97496960,Governor of Namibe,Q111974700,Carlos da Rocha Cruz,,,Q111974700-89D1C5FD-A573-44A5-8BA0-BB861130877B
-Q216972,Uíge Province,Q97497013,Governor of Uíge,,,,,
-Q196674,Zaire Province,Q97497044,Governor of Zaire,Q111974359,Pedro Makita Armando Júlia,,,Q111974359-1E3213D9-3D9D-4358-941B-6942EBB3F3C6
+province,provinceLabel,position,positionLabel,person,name,dob,source,sourceDate,psid
+Q191299,Bengo Province,Q97482096,Governadora Provincial do Bengo,Q97482106,Mara Regina da Silva Baptista Domingos Quiosa,,https://governo.gov.ao/ao/governo/governadores-provinciais/,2022-05-14,Q97482106-fc2886bc-4846-4830-5ace-ab4326a6e7b4
+Q212786,Benguela Province,Q97496421,Governor of Benguela,Q111994516,Luís da Fonseca Nunes,,,,Q111994516-9BBFA460-D2B0-46C2-9FD1-2C33C605796C
+Q213977,Bié Province,Q97496439,Governador Provincial do Bié,Q111974360,Pereira Alfredo,,https://governo.gov.ao/ao/governo/governadores-provinciais/,2022-05-14,Q111974360-A913E47E-3D5D-47BB-9BA2-1BE00F8DFB13
+Q168787,Cabinda Province,Q97496450,Governador Provincial de Cabinda,Q111954411,Marcos Alexandre Nhunga,,https://governo.gov.ao/ao/governo/governadores-provinciais/,2022-05-14,Q111954411-4153A407-4B84-4A4F-818A-69DCEF4138B1
+Q215268,Cuando Cubango Province,Q97496459,Governador Provincial do Cuando Cubango,Q111994437,José Martins,,https://governo.gov.ao/ao/governo/governadores-provinciais/,2022-05-14,Q111994437-CA54797D-0C61-4D75-9866-CCAC18C17442
+Q216834,Cuanza Norte Province,Q97496560,Governador Provincial do Cuanza Norte,Q111994450,Adriano Mendes de Carvalho,,https://governo.gov.ao/ao/governo/governadores-provinciais/,2022-05-14,Q111994450-794C7315-BA8F-4F82-9231-50726D5EC367
+Q216998,Cuanza Sul,Q97496672,Governador Provincial do Cuanza Sul,Q111974283,Job Pedro Castelo Capapinha,,https://governo.gov.ao/ao/governo/governadores-provinciais/,2022-05-14,Q111974283-80381946-C63F-424E-956B-FCBE742E3793
+Q216987,Cunene Province,Q97496684,Governor of Cunene,Q111974733,Gerdina Ulipamue Didalelwa,,,,Q111974733-7746a854-46e5-9b7c-3db1-42a995b83182
+Q218848,Huambo Province,Q97496692,Governor of Huambo,Q111994790,Lotti Nolika,1960-03-22,,,Q111994790-16C90AFE-3972-4AE3-8996-203843F00ED5
+Q214572,Huíla Province,Q97496784,Governor of Huíla,Q111994858,Nuno Bernabé Mahapi Dala,,,,Q111994858-cf08f916-4bbb-441f-4aab-7f1ccdaca117
+Q190066,Luanda Province,Q97496789,Governor of Luanda,Q111954367,Ana Paula de Carvalho,,,,Q111954367-7EB97487-C831-4E79-903C-5E1CC4D5CDBA
+Q214221,Lunda Norte Province,Q97496855,Governador Provincial da Lunda Norte,Q97496861,Ernesto Muangala,,https://governo.gov.ao/ao/governo/governadores-provinciais/,2022-05-14,Q97496861-308f1567-465a-de7a-3391-d5de7b63f39e
+Q219648,Lunda Sul Province,Q97496869,Governador Provincial da Lunda Sul,Q97496874,Daniel Félix Neto,,https://governo.gov.ao/ao/governo/governadores-provinciais/,2022-05-14,Q97496874-be203f61-4ff7-bea1-c4bc-4b6b714ce702
+Q219072,Malanje Province,Q97496909,Governador Provincial de Malanje,Q111994591,"Norberto Fernandes dos Santos  "" Kwata Kanawa""",1948-02-15,https://governo.gov.ao/ao/governo/governadores-provinciais/,2022-05-14,Q111994591-02799A10-3716-405B-9E17-96F83D3E8D68
+Q173988,Moxico Province,Q97496930,Governador Provincial do Moxico,Q111954382,Gonçalves Manuel Muandumba,,https://governo.gov.ao/ao/governo/governadores-provinciais/,2022-05-14,Q111954382-F4BB2FFD-E8A6-4FE4-9F6C-0DD0BE83BC38
+Q216819,Namibe Province,Q97496960,Governor of Namibe,Q60918484,Archer Mangueira,1962-01-01,,,Q60918484-A9F7F1F8-56DF-44CD-B963-557AB1646017
+Q216972,Uíge Province,Q97497013,Governor of Uíge,Q18276312,José Carvalho da Rocha,1964-03-30,,,Q18276312-75F8B51D-EE9F-4E76-B610-AD08309CB3B8
+Q196674,Zaire Province,Q97497044,Governador Provincial do Zaire,Q111974359,Pedro Makita Armando Júlia,,https://governo.gov.ao/ao/governo/governadores-provinciais/,2022-05-14,Q111974359-1E3213D9-3D9D-4358-941B-6942EBB3F3C6

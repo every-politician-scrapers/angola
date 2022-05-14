@@ -1,29 +1,22 @@
-@@,position,positionlabel,name
-->,Q97497044,Governor of Zaire->Governador Provincial do Zaire,Pedro Makita Armando Júlia
-->,Q97496869,Governor of Lunda Sul->Governador Provincial da Lunda Sul,Daniel Félix Neto
-->,Q97496855,Governor of Lunda Norte->Governador Provincial da Lunda Norte,Ernesto Muangala
-->,Q97496672,Governor of Cuanza Sul->Governador Provincial do Cuanza Sul,Job Pedro Castelo Capapinha
-->,Q97496560,Governor of Cuanza Norte->Governador Provincial do Cuanza Norte,Adriano Mendes de Carvalho
-->,Q97496459,Governor of Cuando Cubango->Governador Provincial do Cuando Cubango,José Martins
-->,Q97496450,Governor of Cabinda->Governador Provincial de Cabinda,Marcos Alexandre Nhunga
-->,Q97496439,Governor of Bié->Governador Provincial do Bié,Pereira Alfredo
----,Q97497013,Governor of Uíge,""
----,Q97496960,Governor of Namibe,Carlos da Rocha Cruz
----,Q97496930,Governor of Moxico,Goncalves Manuel Muandumba
----,Q97496909,Governor of Malanje,Norberto Fernandes dos Santos
----,Q97496789,Governor of Luanda,Joana Lina Ramos Baptista Cândido
----,Q97496784,Governor of Huíla,Luís da Fonseca Nunes
----,Q97496692,Governor of Huambo,Joana Lina
----,Q97496684,Governor of Cunene,Vígilio da Ressureição Bernardo Adriano Tyova
----,Q97496421,Governor of Benguela,Rui Luís Falcão Pinto de Andrade
----,Q97482096,Governor of Bengo,Mara Baptista Quiosa
-+++,"",Governador Provincial do Uíge,JOSÉ CARVALHO DA ROCHA
-+++,"",Governador Provincial do Namibe,Augusto Archer de Sousa Mangueira
-+++,"",Governador Provincial do Moxico,Gonçalves Manuel Muandumba
-+++,"",Governadora Provincial do Huambo,Lotti Nolika
-+++,"",Governadora Provincial do Cunene,Gerdina Ulipamue Didalelwa
-+++,"",Governadora Provincial do Bengo,Mara Regina da Silva Baptista Domingos Quiosa
-+++,"",Governador Provincial de Malanje,"Norberto Fernandes dos Santos "" Kwata Kanawa"""
-+++,"",Governadora Provincial de Luanda,Ana Paula Chantre Luna de Carvalho
-+++,"",Governador Provincial de Benguela,Luís Manuel da Fonseca Nunes
-+++,"",Governador Provincial da Huíla,Nuno Bernabé Mahapi Dala
+@@,position,positionlabel,name,dob
+->,Q97497044,Governador Provincial do Zaire,Pedro Makita Armando Júlia,NULL->1958-12-12
+->,Q97497013,Governor of Uíge->Governador Provincial do Uíge,José Carvalho da Rocha->JOSÉ CARVALHO DA ROCHA,1964-03-30
+->,Q97496930,Governador Provincial do Moxico,Gonçalves Manuel Muandumba,NULL->1957-03-06
+->,Q97496909,Governador Provincial de Malanje,"Norberto Fernandes dos Santos  "" Kwata Kanawa""->Norberto Fernandes dos Santos "" Kwata Kanawa""",1948-02-15
+->,Q97496869,Governador Provincial da Lunda Sul,Daniel Félix Neto,NULL->1979-06-11
+->,Q97496855,Governador Provincial da Lunda Norte,Ernesto Muangala,NULL->1961-07-31
+->,Q97496784,Governor of Huíla->Governador Provincial da Huíla,Nuno Bernabé Mahapi Dala,NULL->1975-02-20
+->,Q97496692,Governor of Huambo->Governadora Provincial do Huambo,Lotti Nolika,1960-03-22
+->,Q97496684,Governor of Cunene->Governadora Provincial do Cunene,Gerdina Ulipamue Didalelwa,NULL->1961-08-10
+->,Q97496672,Governador Provincial do Cuanza Sul,Job Pedro Castelo Capapinha,NULL->1962-05-9
+->,Q97496560,Governador Provincial do Cuanza Norte,Adriano Mendes de Carvalho,NULL->1959-09-16
+->,Q97496459,Governador Provincial do Cuando Cubango,José Martins,NULL->1978-12-13
+->,Q97496450,Governador Provincial de Cabinda,Marcos Alexandre Nhunga,NULL->1960-11-13
+->,Q97496439,Governador Provincial do Bié,Pereira Alfredo,NULL->1978-10-22
+->,Q97482096,Governadora Provincial do Bengo,Mara Regina da Silva Baptista Domingos Quiosa,NULL->1980-06-13
+---,Q97496960,Governor of Namibe,Archer Mangueira,1962-01-01
+---,Q97496789,Governor of Luanda,Ana Paula de Carvalho,""
+---,Q97496421,Governor of Benguela,Luís da Fonseca Nunes,""
++++,"",Governadora Provincial de Luanda,Ana Paula Chantre Luna de Carvalho,1971-06-21
++++,"",Governador Provincial do Namibe,Augusto Archer de Sousa Mangueira,1962-09-26
++++,"",Governador Provincial de Benguela,Luís Manuel da Fonseca Nunes,1959-09

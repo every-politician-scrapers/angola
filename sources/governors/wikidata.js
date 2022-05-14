@@ -17,10 +17,14 @@ module.exports = function () {
         ?held prov:wasDerivedFrom ?ref .
         ?ref pr:P854 ?source FILTER CONTAINS(STR(?source), '${meta.source.url}') .
         OPTIONAL { ?ref pr:P1810 ?sourceName }
+        OPTIONAL { ?ref pr:P1932 ?statedName }
         OPTIONAL { ?ref pr:P813  ?sourceDate }
       }
       OPTIONAL { ?person rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "en") }
       BIND(COALESCE(?sourceName, ?wdLabel) AS ?name)
+
+      OPTIONAL { ?position rdfs:label ?posLabel FILTER(LANG(?posLabel) = "en") }
+      BIND(COALESCE(?statedName, ?posLabel) AS ?positionLabel)
     }
 
     SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }

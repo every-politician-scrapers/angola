@@ -34,7 +34,7 @@ class MemberList
     end
 
     field :dob do
-      birthdate_en.split(' ').reverse.join('-')
+      birthdate_en.split(' ').reverse.map { |str| format('%02d', str.to_i) }.join('-')
     end
 
     private

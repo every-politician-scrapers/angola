@@ -6,12 +6,8 @@ require 'every_politician_scraper/scraper_data'
 require 'pry'
 
 class Comparison < EveryPoliticianScraper::NulllessComparison
-  def wikidata_csv_options
-    { converters: [->(v) { v.to_s.sub(/ Province$/, '') }] }
-  end
-
-  def external_csv_options
-    { converters: [->(v) { v.to_s.sub(/ Provincia$/, '') }] }
+  def columns
+    super + %i[person]
   end
 end
 

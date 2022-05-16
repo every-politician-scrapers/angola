@@ -239,7 +239,7 @@ Governor of Luanda Province,Graciano Francisco Domingos,Q111994548,2015,2016,mal
 Governor of Luanda Province,Francisco Lopes Higino Carneiro,Q5483447,2016,2017,male,1955-07-08,,,Higino Carneiro
 Governor of Luanda Province,Adriano Mendes de Carvalho,Q111994450,2017,2019,male,1959-09-16,,,
 Governor of Luanda Province,Sérgio Luther Rescova Joaquim,Q111974374,2019,2020,male,,,,
-Governor of Luanda Province,Joana Lina Ramos Baptista Cândido,Q111974278,2020,2021,female,,,,
+Governor of Luanda Province,Joana Lina,Q16337620,2020,2021,female,,,,
 Governor of Luanda Province,Ana Paula de Carvalho,Q111954367,2021,,,1971-06-21,,,
 Governor of Lunda Norte Province,Manuel Francisco Gomes Maiato,Q111994559,1997,2008,male,,,,
 Governor of Lunda Norte Province,Ernesto Muangala,Q97496861,2008,,male,1961-07-31,,,
@@ -285,6 +285,7 @@ ambassador to Belgium,Mário de Azevedo Constantino,Q112042696,2020-06-10,,,,,,
 ambassador to Botswana,Pedro Fernando Mavunza,Q7159569,2007,,male,1934-08-24,,,Pedro Fernando Mavunza
 ambassador to Botswana,Beatriz Antónia Manuel de Morais,Q112042649,2018-02,,female,,,,
 ambassador to Brazil,Alberto Correia Neto,Q94970990,2000,2006,male,1949-07-08,,,
+ambassador to Brazil,Leovigildo da Costa e Silva,Q112038537,2006-09,,male,,,,
 ambassador to Brazil,Florêncio Mariano de Almeida,Q112038476,2018-12,,male,,,,
 ambassador to Canada,Miguel Maria N'Zau Puna,Q6844661,2000-09,2008,male,,,,Miguel Maria N'Zau Puna
 ambassador to Canada,Edgar Gaspar Martins,Q112042545,2015-02,,male,,,,
@@ -294,6 +295,7 @@ ambassador to China,João Manuel Bernardo,Q6298234,2002,2011,male,,,,João Manue
 ambassador to China,João Garcia Bires,Q112038625,2011-12,,male,1944-02-27,,,
 ambassador to China,João Salvador dos Santos Neto,Q112042642,2018-02,,,,,,
 ambassador to Cuba,João Manuel Bernardo,Q6298234,1996,2002,male,,,,João Manuel Bernardo
+ambassador to Cuba,Condesse de Carvalho,Q112038620,2002-10,,male,,,,
 ambassador to Cuba,Maria de Cândida Pereira Teixeira,Q111954412,2020-03-16,,,,,,
 ambassador to Egypt,Hendrick Vaal Neto,Q5713736,2006-01-27,2011-09-12,male,1944-11-22,,,Hendrick Vaal Neto
 ambassador to Egypt,Nelson Manuel Cosme,Q112032211,2019-07-15,,male,,,,
@@ -304,6 +306,7 @@ ambassador to France,Victor Manuel Rita da Fonseca Lima,Q23304145,2008-08,2009-0
 ambassador to France,Miguel da Costa,Q111993727,2009-01,,male,,,,
 ambassador to France,João Bernardo de Miranda,Q3187284,2018,,male,1953-07-18,,João Bernardo de Miranda.jpg,João Bernardo de Miranda
 ambassador to Gabon,Emilio Jose de Carvalho Guerra,Q111993636,2001-01-23,,male,,,,
+ambassador to Gabon,Toko Diakenda Serão,Q112042715,2014-12,,,,,,
 ambassador to Gabon,Lizeth Nawanga Satumbo Pena,Q112032225,2019-07-15,,female,,,,
 ambassador to Germany,Alberto Correia Neto,Q94970990,2011,,male,1949-07-08,,,
 ambassador to Germany,Balbina Malheiros Dias da Silva,Q110870723,2019-10,,female,1959-02-27,,,
@@ -318,11 +321,13 @@ ambassador to the Holy See,Paulino Domingos Baptista,Q111954416,2018-09,,,,,,
 ambassador to Hungary,Joao Miguel Vahekeni,Q112042671,2002,2011,male,1949-11-24,,,
 ambassador to Hungary,José Filipe,Q112032218,2019-07-15,,male,,,,
 ambassador to India,Ana Maria Teles Carreira,Q4750416,2001-01-23,,female,,,,Ana Maria Teles Carreira
+ambassador to Iraq,Antonio da Costa Fernandes,Q4777046,2014-02,,male,1935-10-18,,,António da Costa Fernandes
 ambassador to Israel,Jose João Manuel,Q6279399,2001-01-23,,male,,,,José João Manuel
 ambassador to Italy,Manuel Pedro Pacavira,Q6752791,2005,2011,male,1939,2016-09-12,,Manuel Pedro Pacavira
 ambassador to Italy,Maria de Fátima Monteiro Jardim,Q105491338,2019-06,,female,,,,
 ambassador to Ivory Coast,Gilberto Buta Lutucuta,Q5561350,2007-12,,male,,,,Gilberto Buta Lutucuta
 ambassador to Japan,Victor Manuel Rita da Fonseca Lima,Q23304145,2001-01-23,2006,male,1953,,,
+ambassador to Japan,Albino Malungo,Q111994504,2006-09,,male,,,,
 ambassador to Japan,Joao Miguel Vahekeni,Q112042671,2011,2018-02,male,1949-11-24,,,
 ambassador to Japan,Rui Orlando Xavier,Q112042568,2018-07,,male,,,,
 ambassador to Kenya,Sianga Samuel Abilio,Q112042558,2018-02,,,,,,
@@ -363,7 +368,7 @@ ambassador to Switzerland,Cecília Caldeira da Conceição Rosário,Q112042334,2
 ambassador to Tanzania,Brito Sozinho,Q4971495,2000,2006,male,,,Brito Sozinho.jpg,Brito Sozinho
 ambassador to Tanzania,Ambrósio Lukoki,Q4741928,2006,2018,male,1940-12-07,2018-10-01,,Ambrósio Lukoki
 ambassador to Tanzania,Sandro Renato Agostinho de Oliveira,Q112042295,2019-07,,,,,,
-ambassador to Turkey,José Patrício,Q15821868,2018,,male,1954-03-09,,,
+ambassador to Turkey,José Patrício,Q6293678,2018,,male,1954-03-09,,,José Patrício
 ambassador to Turkmenistan,Joaquim Augusto de Lemos,Q20559814,2012-07,,male,,,Joaquim Augusto de Lemos.jpg,
 ambassador to Ukraine,Joaquim Augusto de Lemos,Q20559814,2012-07,,male,,,Joaquim Augusto de Lemos.jpg,
 ambassador to the United Arab Emirates,Albino Malungo,Q111994504,2019-10,,male,,,,
@@ -378,8 +383,8 @@ ambassador to the United States of America,Joaquim do Espirito Santo,Q107343336,
 ambassador to Vietnam,João Manuel Bernardo,Q6298234,2011,,male,,,,João Manuel Bernardo
 ambassador to Vietnam,Agostinho Andre De Carvalho Fernandes,Q112042233,2020-02,,male,,,,
 ambassador to Zimbabwe,Joaquim Augusto de Lemos,Q20559814,2001-01-23,,male,,,Joaquim Augusto de Lemos.jpg,
-Permanent Representative to the United Nations,José Patrício,Q15821868,2000,2001-05,male,1954-03-09,,,
-Permanent Representative to the United Nations,José Patrício,Q6293678,2000,2001,male,,,,José Patrício
+Permanent Representative to the United Nations,Afonso Van-Dunem,Q4689392,1991,2000-03,male,1941-09-07,2014-11-14,,Afonso Van-Dunem
+Permanent Representative to the United Nations,José Patrício,Q6293678,2000-03,2001-05,male,1954-03-09,,,José Patrício
 Permanent Representative to the United Nations,Ismael Martins,Q5526551,2001-05,2018-02,male,1940-01-12,,,Ismael Martins
 Permanent Representative to the United Nations,Daniel António Rosa,Q111781929,2006,2011,male,,,,
 Permanent Representative to the United Nations,Maria de Jesus dos Reis Ferreira,Q60868951,2018,,female,,,2011 Maria de Jesus dos Reis Ferreira (6172420884) (cropped).jpg,Maria de Jesus dos Reis Ferreira

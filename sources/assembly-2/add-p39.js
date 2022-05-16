@@ -2,12 +2,10 @@ const fs = require('fs');
 let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
-module.exports = (id, label, party, startdate, enddate) => {
+module.exports = (id, label, party) => {
   qualifier = { }
   if(meta.term) qualifier['P2937'] = meta.term.id
   if(party)     qualifier['P4100'] = party
-  if(startdate) qualifier['P580']  = startdate
-  if(enddate)   qualifier['P582']  = enddate
 
   reference = {
     P854: meta.source,

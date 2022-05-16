@@ -65,7 +65,7 @@ module.exports = function () {
 
       OPTIONAL {
         ?ps pq:P4100 ?party .
-        OPTIONAL { ?party wdt:P1813 ?partyShortName FILTER (LANG(?partyShortName)="fr")}
+        OPTIONAL { ?party wdt:P1813 ?partyShortName FILTER (LANG(?partyShortName)="pt")}
         OPTIONAL { ?party rdfs:label ?partyName FILTER (LANG(?partyLabel)="${meta.lang}") }
       }
       BIND(COALESCE(?partyShortName, ?partyName) AS ?partyLabel)

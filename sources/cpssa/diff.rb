@@ -3,7 +3,7 @@
 
 require 'every_politician_scraper/comparison'
 
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def external_csv_options
     { converters: [->(v) { v.to_s.sub('2019-12-31', '2020-01-17') }] }
   end

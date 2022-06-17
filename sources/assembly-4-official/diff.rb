@@ -5,7 +5,7 @@ require 'every_politician_scraper/comparison'
 
 CSV::Converters[:uppercase] = ->(val) { val.to_s.upcase }
 
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def columns
     super - %i(arealabel partylabel)
   end

@@ -5,7 +5,7 @@ require 'every_politician_scraper/comparison'
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def columns
     super + %i[person]
   end

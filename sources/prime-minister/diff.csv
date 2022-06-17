@@ -1,5 +1,6 @@
-@@,itemlabel,item,startdate,enddate
-->,Fernando José de França Dias Van-Dúnem,Q264090,1991-07-19,1992-12-02->1992-08-27
-+++,Fernando José de França Dias Van-Dúnem,Q264090,1992-08-27,1992-12-02
----,Fernando José de França Dias Van-Dúnem,Q264090,1996-06-03,2002-12-05
-->,Paulo Kassoma,Q373591,2008-09-30,2010-02-05->2010-02-04
+@@,item,itemlabel,startdate,enddate
+->,Q264090,Fernando José de França Dias Van-Dúnem,1996-06-03,2002-12-05->2002-12-06
+->,Q373591,Paulo Kassoma,2008-09-30,2010-02-05->2010-02-04
++++,Q310815,Fernando da Piedade Dias dos Santos,2010-02-18,2012-09-26
++++,Q973742,Manuel Vicente,2012-09-26,2017-09-26
++++,Q16336949,Bornito de Sousa,2017-09-26,

@@ -1,3 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-->,José Eduardo dos Santos,Q57313,1979-09-21,2017-09-26->1992-08-27
-+++,José Eduardo dos Santos,Q57313,1992-08-27,2017-09-25
+@@,item,itemlabel,startdate,enddate
+->,Q57313,José Eduardo dos Santos,1979-09-21->1992-08-27,2017-09-26->2017-09-25

@@ -23,7 +23,8 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def raw_combo_date
-      super.gsub(/\(.*?\)/, '').tidy
+      years = super.gsub(/\(.*?\)/, '').tidy
+      years =~ /^\d{4}$/ ? "#{years} - #{years}" : years
     end
   end
 end

@@ -1,0 +1,212 @@
+{
+  "title": "João Manuel Bernardo",
+  "pageID": 14326296,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Ambassadors of Angola to China",
+    "Ambassadors of Angola to Cuba",
+    "Education ministers of Angola",
+    "Governors of Malanje"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "João Manuel Bernardo is the ambassador of Angola to the Socialist Republic of Vietnam.",
+              "links": [
+                {
+                  "text": "ambassador",
+                  "type": "internal",
+                  "page": "ambassador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Angola"
+                },
+                {
+                  "type": "internal",
+                  "page": "Socialist Republic of Vietnam"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "João Manuel Bernardo"
+                ]
+              }
+            },
+            {
+              "text": "He visited the PRC in November 2007."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Ambassador of Angola to Vietnam"
+          },
+          "term_start": {
+            "text": "2011",
+            "number": 2011
+          },
+          "predecessor": {
+            "text": "Position established"
+          },
+          "office1": {
+            "text": "Governor of Malanje"
+          },
+          "term_start1": {
+            "text": "1992",
+            "number": 1992
+          },
+          "term_end1": {
+            "text": "1992",
+            "number": 1992
+          },
+          "predecessor1": {
+            "text": "João Filipe Martins"
+          },
+          "successor1": {
+            "text": "Flávio João Fernandes"
+          },
+          "office2": {
+            "text": "Minister of Education of Angola",
+            "links": [
+              {
+                "text": "Minister of Education of Angola",
+                "type": "internal",
+                "page": "Minister of Education (Angola)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1992",
+            "number": 1992
+          },
+          "term_end2": {
+            "text": "1996",
+            "number": 1996
+          },
+          "predecessor2": {
+            "text": "António Burity da Silva"
+          },
+          "successor2": {
+            "text": "António Burity da Silva"
+          },
+          "office3": {
+            "text": "Ambassador of Angola to Cuba"
+          },
+          "term_start3": {
+            "text": "1996",
+            "number": 1996
+          },
+          "term_end3": {
+            "text": "2002",
+            "number": 2002
+          },
+          "predecessor3": {
+            "text": "António Burity da Silva"
+          },
+          "successor3": {
+            "text": "Condesse de Carvalho Toka",
+            "formatting": {
+              "italic": [
+                "Toka"
+              ]
+            }
+          },
+          "office4": {
+            "text": "Ambassador of Angola to China"
+          },
+          "term_start4": {
+            "text": "2002",
+            "number": 2002
+          },
+          "term_end4": {
+            "text": "2011",
+            "number": 2011
+          },
+          "predecessor4": {
+            "text": "Manuel Bernardo de Sousa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manuel Bernardo de Sousa"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "João Garcia Bires"
+          },
+          "nationality": {
+            "text": "Angolan"
+          },
+          "party": {
+            "text": "MPLA",
+            "links": [
+              {
+                "type": "internal",
+                "page": "MPLA"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "year": "2007",
+          "url": "http://allafrica.com/stories/200711150442.html",
+          "title": "Angola: Ambassador Considers Relations With China Excellent",
+          "publisher": "Angola Press Agency via AllAfrica",
+          "accessdate": "2007-11-19",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Angola-China relations",
+            "links": [
+              {
+                "text": "Angola-China relations",
+                "type": "internal",
+                "page": "Foreign relations of Angola",
+                "anchor": "Angola-China relations"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "angola-politician-stub"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

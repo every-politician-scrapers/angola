@@ -1,0 +1,100 @@
+{
+  "title": "Pedro Fernando Mavunza",
+  "pageID": 14859782,
+  "categories": [
+    "Angolan diplomats",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Ambassadors of Angola to South Africa",
+    "Ambassadors of Angola to the Republic of the Congo"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pedro Fernando Mavunza is the ambassador of Angola to Botswana and the Congo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Angola"
+                },
+                {
+                  "type": "internal",
+                  "page": "Botswana"
+                },
+                {
+                  "text": "the Congo",
+                  "type": "internal",
+                  "page": "Republic of the Congo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Pedro Fernando Mavunza"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ambassador Pedro Fernando Mavunza succeeded Manuel Quarta Punza upon his death on October 12, 2007 as ambassador to the Congo Brazzaville.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manuel Quarta Punza"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Angolan diplomat",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "year": "2007",
+          "url": "http://allafrica.com/stories/200712200308.html",
+          "title": "Angola: Ambassador Presents Letters to Congo President",
+          "publisher": "Angola Press Agency via allAfrica",
+          "accessdate": "2007-12-24",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "year": "2008",
+          "url": "http://allafrica.com/stories/200801101049.html",
+          "title": "Angola: Congolese Leader, Diplomat Discuss Bilateral Co-Operation",
+          "publisher": "Angola Press Agency via allAfrica",
+          "accessdate": "2008-01-10",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "angola-politician-stub"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

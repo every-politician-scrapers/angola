@@ -1,0 +1,191 @@
+{
+  "title": "Silvia Lutacuta",
+  "pageID": 71279791,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "People from Huambo",
+    "Cardiologists",
+    "Angolan physicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Silvia Paula Valentim Lutucuta (born July 14, 1968) is an Angolan politician and cardiologist, the incumbent Minister of Health.",
+              "formatting": {
+                "bold": [
+                  "Silvia Paula Valentim Lutucuta"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Angolan politician (born 1968)",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use mdy dates"
+        },
+        {
+          "year": "1968",
+          "month": "7",
+          "day": "14",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sílvia Lutucuta"
+          },
+          "image": {
+            "text": "Dr. Silvia Lutucuta video call with IAEA (sq cropped).jpg"
+          },
+          "caption": {
+            "text": "meeting IAEA via video call in 2022"
+          },
+          "birth_date": {
+            "text": "July 14, 1968"
+          },
+          "birth_place": {
+            "text": "Huambo, Portuguese Angola",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Huambo"
+              },
+              {
+                "type": "internal",
+                "page": "Portuguese Angola"
+              }
+            ]
+          },
+          "other_names": {
+            "text": "Silvia Paula Valentim Lutucuta"
+          },
+          "known_for": {
+            "text": "Angolan Minister of Health"
+          },
+          "occupation": {
+            "text": "Cardiologist and politician"
+          },
+          "nationality": {
+            "text": "Angola"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "grxnet.com",
+          "title": "Portal Oficial do Governo da República de Angola - Ministra Sílvia Paula Valentim Lutucuta (MINSA)",
+          "url": "https://governo.gov.ao/ao/gca/index.php?id=242",
+          "access-date": "2022-07-12",
+          "website": "SEPE - Serviços Públicos Electrónicos do Governo de Angola",
+          "language": "pt",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lutucuta was born in Huambo in 1968.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Huambo"
+                }
+              ]
+            },
+            {
+              "text": "She trained in medicine and specialised in cardiology at the Hospital de Santa Maria in Lisbon, Portugal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hospital de Santa Maria"
+                }
+              ]
+            },
+            {
+              "text": "In 2000 she moved to Houston in Texas where she undertook post-doctoral research at Baylor College of Medicine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Baylor College of Medicine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She joined the Angolan Society of Cardiovascular Diseases."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is a member of the Member of the MPLA Political Bureau."
+            },
+            {
+              "text": "In 2017 she was nominated to be the Minister of Health in Angola."
+            },
+            {
+              "text": "She has created thousands of new jobs especially in rural layers."
+            },
+            {
+              "text": "Under her leadership vaccines for COVID-19 were roled out in her country and she organised the funding."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Federação das Sociedades de Cardiologia de Língua Portuguesa",
+          "url": "http://fsclp.org/membros-sadcv.html",
+          "access-date": "2022-07-12",
+          "website": "fsclp.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Silvia Lutucuta",
+          "url": "https://www.gavi.org/governance/gavi-board/members/silvia-lutucuta",
+          "access-date": "2022-07-12",
+          "website": "www.gavi.org",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "angola-bio-stub"
+        }
+      ]
+    }
+  ]
+}

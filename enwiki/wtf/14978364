@@ -1,0 +1,135 @@
+{
+  "title": "António da Costa Fernandes",
+  "pageID": 14978364,
+  "categories": [
+    "People of the Angolan Civil War",
+    "Angolan rebels",
+    "UNITA politicians",
+    "Ambassadors of Angola to Egypt",
+    "1935 births",
+    "Living people",
+    "Angolan revolutionaries"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "António da Costa Fernandes aka Tony da Costa Fernandes (born 18 October 1935) is an Angolan politician.",
+              "links": [
+                {
+                  "text": "Angolan",
+                  "type": "internal",
+                  "page": "Angola"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "António da Costa Fernandes",
+                  "Tony da Costa Fernandes"
+                ]
+              }
+            },
+            {
+              "text": "He served as UNITA's representative to the United Kingdom.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "UNITA"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                }
+              ]
+            },
+            {
+              "text": "Along with Jonas Savimbi, he was co-founder of UNITA.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jonas Savimbi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Costa Fernandes studied with Savimbi, the future leader of UNITA, in Switzerland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Switzerland"
+                }
+              ]
+            },
+            {
+              "text": "In November 1963 they went to Portugal, planning an uprising against Portuguese colonial authorities in Angola.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Portugal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Angola"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Later, when UNITA allied with the People's Republic of China, Costa Fernandes recruited the first refugees in Zambia to go to China for military training.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Republic of China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zambia"
+                }
+              ]
+            },
+            {
+              "text": "He went along with fourteen other men."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Brittain",
+          "first": "Victoria",
+          "year": "1998",
+          "title": "Death of Dignity: Angola's Civil War",
+          "pages": "10",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "angola-politician-stub"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

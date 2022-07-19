@@ -1,0 +1,81 @@
+{
+  "title": "Tete António",
+  "pageID": 65617263,
+  "categories": [
+    "Living people",
+    "Foreign ministers of Angola",
+    "21st-century Angolan people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tete António is an Angolan politician who has been the Minister of External Relations since 2020.",
+              "links": [
+                {
+                  "text": "Angolan",
+                  "type": "internal",
+                  "page": "Angolan people"
+                },
+                {
+                  "text": "Minister of External Relations",
+                  "type": "internal",
+                  "page": "Minister of External Relations (Angola)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tete António"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Tete_António_-_2019_(cropped).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Tete_Ant%C3%B3nio_-_2019_(cropped).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Tete_Ant%C3%B3nio_-_2019_(cropped).jpg",
+          "caption": "António in 2019",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Angolan politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "UN Secretary General congratulated Tete Antonio",
+          "url": "https://www.verangola.net/va/en/042020/Politics/19561/UN-Secretary-General-congratulated-Tete-Antonio.htm",
+          "access-date": "2020-10-18",
+          "website": "VerAngola",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "angola-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "title": "José João Manuel",
+  "pageID": 14233711,
+  "categories": [
+    "Angolan diplomats",
+    "Ambassadors of Angola to Israel",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José João Manuel is the ambassador of Angola to Israel.",
+              "links": [
+                {
+                  "text": "ambassador",
+                  "type": "internal",
+                  "page": "ambassador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Angola"
+                },
+                {
+                  "type": "internal",
+                  "page": "Israel"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "José João Manuel"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Angolan diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "March 2021",
+          "template": "blp sources"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Angola–Israel relations",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Angola–Israel relations"
+              }
+            ]
+          },
+          {
+            "text": "Politics of Angola",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics of Angola"
+              }
+            ]
+          },
+          {
+            "text": "Politics of Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics of Israel"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Biography",
+            "Israel",
+            "Politics"
+          ],
+          "template": "portal bar"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "angola-politician-stub"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

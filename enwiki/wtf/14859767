@@ -1,0 +1,160 @@
+{
+  "title": "Miguel Neto",
+  "pageID": 14859767,
+  "categories": [
+    "Ambassadors of Angola to the United Kingdom",
+    "Ambassadors of Angola to South Africa",
+    "Ambassadors of Angola to Ireland",
+    "Ambassadors of Angola to the Democratic Republic of the Congo",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Miguel Neto (proper : Miguel Gaspar Neto or Miguel Gaspar Fernandes Neto ) was the ambassador of Angola to South Africa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Angola"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Africa"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Miguel Neto",
+                  "Miguel Gaspar Neto"
+                ],
+                "italic": [
+                  "Miguel Gaspar Fernandes Neto"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed ambassador by Jose Eduardo dos Santos in 2005.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jose Eduardo dos Santos"
+                }
+              ]
+            },
+            {
+              "text": "As of 2011, Neto vacated this position having had a \"farewell meeting\" with Baleka Mbete (chairman of the ANC) in which he talked about the good and long standing relationship between Angola and South Africa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Baleka Mbete"
+                },
+                {
+                  "type": "internal",
+                  "page": "ANC"
+                }
+              ]
+            },
+            {
+              "text": "As of 2012, Neto is the current Angolan ambassador to the United Kingdom and Ireland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                },
+                {
+                  "text": "Ireland",
+                  "type": "internal",
+                  "page": "Republic of Ireland"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Politics"
+          ],
+          "template": "portal"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "In 1984 President Jose Eduardo dos Santos appointed Miguel Gaspar Neto as Angola's Ambassador to Zaire.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jose Eduardo dos Santos"
+              },
+              {
+                "type": "internal",
+                "page": "Zaire"
+              }
+            ]
+          },
+          {
+            "text": "Miguel Neto was Angola's second Ambassador to Zaire since the establishment of diplomatic relations between the two countries in 1978."
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "year": "2007",
+          "url": "http://allafrica.com/stories/200712200754.html",
+          "title": "Angola: President Dos Santos Congratulates Jacob Zuma On Election",
+          "publisher": "Angola Press Agency via allAfrica",
+          "accessdate": "2007-12-24",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "angola-politician-stub"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "title": "José Patrício",
+  "pageID": 15001719,
+  "categories": [
+    "Permanent Representatives of Angola to the United Nations",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Ambassadors of Angola to Portugal"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José Patrício served as the ambassador of Angola to the United Nations from 2000 to 2001.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Angola"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "José Patrício"
+                ]
+              }
+            },
+            {
+              "text": "He replaced Afonso Van-Dúnem M'Binda and preceded Gaspar Martins.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Afonso Van-Dúnem M'Binda"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gaspar Martins"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://un.cti.depaul.edu/Countries/Angola/1132757526.pdf",
+          "title": "Our Former Ambassadors",
+          "publisher": "United Nations",
+          "accessdate": "2008-01-02}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José Patrício served as an Angolan Ambassador to the United Nations and has previously served as Angolan Ambassador to Portugal and, also opene country's embassy in Washington D.C in 1993."
+            },
+            {
+              "text": "Prior to that, Ambassador Patrício served as Information Secretary in the Office of the President."
+            },
+            {
+              "text": "In 1993 he was named by the World Economic Forum as one of the 200 Leaders of the Future."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "angola-politician-stub"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Gilberto Buta Lutucuta",
+  "pageID": 14859685,
+  "categories": [
+    "Angolan diplomats",
+    "Ambassadors of Angola to Ivory Coast",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gilberto Buta Lutucuta is the ambassador of Angola to Côte d'Ivoire.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Angola"
+                },
+                {
+                  "text": "Côte d'Ivoire",
+                  "type": "internal",
+                  "page": "Ivory Coast"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gilberto Buta Lutucuta"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2022",
+          "template": "update"
+        },
+        {
+          "list": [
+            "Bio"
+          ],
+          "date": "May 2017",
+          "template": "notability"
+        },
+        {
+          "template": "multiple issues"
+        }
+      ],
+      "references": [
+        {
+          "year": "2007",
+          "url": "http://allafrica.com/stories/200712210859.html",
+          "title": "Angola: Ambassador Presents Credentials to Cote d'Ivoire President",
+          "publisher": "Angola Press Agency via allAfrica",
+          "accessdate": "2007-12-24",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "government ministers in angola"
+        },
+        {
+          "template": "angola-politician-stub"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

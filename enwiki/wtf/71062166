@@ -1,0 +1,172 @@
+{
+  "title": "João Baptista Borges",
+  "pageID": 71062166,
+  "categories": [
+    "Living people",
+    "1964 births",
+    "Angolan academics",
+    "Angolan politicians",
+    "Agostinho Neto University alumni",
+    "MPLA politicians",
+    "Energy and water ministers of Angola",
+    "People from Luanda",
+    "21st-century Angolan people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "João Baptista Borges (born 4 January 1964, Luanda) is an Angolan academic and politician who served as Minister of Energy and Water under Presidents José Eduardo dos Santos and João Lourenço from 2012 t0 2017.",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "João Baptista Borges"
+                ]
+              }
+            },
+            {
+              "text": "He was a professor of Engineering at Agostinho Neto University and was a member of the MPLA political bureau."
+            },
+            {
+              "text": "He resigned from his ministerial position following an allegation of corruption involving award of contracts to his private company Valoris International incorporated in Virgin Islands in 2013."
+            },
+            {
+              "text": "He speaks three foreign languages, English, French and Spanish fluently."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "French, English, Spanish."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Angolan academic and politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Portal Oficial do Governo da República de Angola - Ministro João Baptista Borges (MINEA)",
+          "url": "https://governo.gov.ao/",
+          "access-date": "2022-06-18",
+          "website": "SEPE - Serviços Públicos Electrónicos do Governo de Angola",
+          "language": "pt",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Pereira",
+          "first": "João Baptista Borges",
+          "last2": "Torres",
+          "first2": "Lilian de Lucca",
+          "date": "2014-07-25",
+          "title": "Entrevista com João Baptista Borges Pereira",
+          "url": "http://dx.doi.org/10.4000/pontourbe.1430",
+          "journal": "Ponto Urbe",
+          "issue": "14",
+          "doi": "10.4000/pontourbe.1430",
+          "issn": "1981-3341",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "last": "Lima",
+          "first": "Laércio Conceição",
+          "date": "2013",
+          "title": "Da legitimidade do ministério público para a investigação de natureza criminal",
+          "url": "http://dx.doi.org/10.5935/1809-8487.20130011",
+          "journal": "De Jure - Revista Jurídica do Ministério Público do Estado de Minas Gerais",
+          "volume": "12",
+          "issue": "20",
+          "doi": "10.5935/1809-8487.20130011",
+          "issn": "1809-8487",
+          "template": "citation",
+          "type": "journal"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Borges studied for a bachelor’s degree in Electrical Engineering at the Agostinho Neto University in 1991, and then went for a master’s degree in Electrical and Computer Engineering Universidade Nova de Lisboa, Portugal in 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Agostinho Neto University"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Borges entered the civil service in 1991 as Trainee mechanical engineer, ENE / North Regional Directorate until 1992 when he was appointed professor of Engineering at Agostinho Neto Universityo and served concurrently in other positions until 2008 when became Deputy Minister of Energy."
+            },
+            {
+              "text": "From 2010 to 2011, he served as Secretary of State for Energy and from 2012 to 2017, he served as minister of Energy and Water."
+            },
+            {
+              "text": "He resigned in 2017 following a report by a Portuguese television channel, Portuguese tiv-24 alleging that the minister laundered Angolan money through family members (his son and a nephew) using a complex web of offshore companies."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Resignation of Aivaras Abromavicius, the Lithuanian-born economy minister: No to corruption",
+          "url": "http://dx.doi.org/10.1163/2210-7975_hrd-0490-2016036",
+          "access-date": "2022-06-18",
+          "website": "Human Rights Documents Online",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Branqueamento de capitais: Ministro angolano da Energia investigado em Portugal {{!}} DW {{!}} 07.01.2021",
+          "url": "https://www.dw.com/pt-002/branqueamento-de-capitais-ministro-angolano-da-energia-investigado-em-portugal/a-56154912",
+          "access-date": "2022-06-18",
+          "website": "DW.COM",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

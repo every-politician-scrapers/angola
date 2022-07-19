@@ -1,0 +1,134 @@
+{
+  "title": "Geraldo Nunda",
+  "pageID": 66270556,
+  "categories": [
+    "1952 births",
+    "Living people",
+    "Ambassadors of Angola to the United Kingdom",
+    "Angolan military personnel"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Geraldo Sachipengo Nunda is a diplomat and former general.",
+              "formatting": {
+                "bold": [
+                  "Geraldo Sachipengo Nunda"
+                ]
+              }
+            },
+            {
+              "text": "He is currently ambassador of the Republic of Angola to the United Kingdom of Great Britain and Northern Ireland (since 15 January 2020)."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Diplomat and former general from Angola",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "last": "Puente",
+          "first": "Maria",
+          "title": "Coronavirus: Queen Elizabeth II postpones scheduled appearances, Prince Charles delays trip",
+          "url": "https://www.usatoday.com/story/entertainment/celebrities/2020/03/13/coronavirus-queen-elizabeth-ii-postpones-scheduled-appearances/5041771002/",
+          "access-date": "2021-02-11",
+          "website": "USA TODAY",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Foreign embassies in the UK",
+          "url": "https://www.gov.uk/government/publications/foreign-embassies-in-the-uk",
+          "access-date": "2021-01-02",
+          "website": "GOV.UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Nunda promovido a general do Exército",
+          "url": "http://www.angonoticias.com/Artigos/item/27403",
+          "access-date": "2021-01-02",
+          "website": "ANGONOTÍCIAS",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was born on 13 September 1952 in Nharaa, Bié."
+            },
+            {
+              "text": "In 2002, he \"graduated in Social Sciences of Education\" and in 2009 gained a master's degree in the history of Angola from the Agostinho Neto University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Agostinho Neto University"
+                }
+              ]
+            },
+            {
+              "text": "Nunda was head of the Angolan Armed forces from 2010 until 2018, when he was charged over reports of corruption.",
+              "links": [
+                {
+                  "text": "head of the Angolan Armed forces",
+                  "type": "internal",
+                  "page": "Chief of General Staff (Angola)"
+                }
+              ]
+            },
+            {
+              "text": "These were later dropped due to an absence of evidence."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is married to Caty Nunda."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Angola drops graft charges against ex-army chief",
+          "url": "https://www.news24.com/news24/africa/news/angola-drops-graft-charges-against-ex-army-chief-20180920",
+          "access-date": "2021-01-02",
+          "website": "News24",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "angola-politician-stub"
+        }
+      ]
+    }
+  ]
+}

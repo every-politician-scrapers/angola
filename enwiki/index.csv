@@ -1,25 +1,25 @@
-pageid,title
-393727,Fernando da Piedade Dias dos Santos
-5543223,João Bernardo de Miranda
-8809290,Brito Sozinho
-14233711,José João Manuel
-14326296,João Manuel Bernardo
-14368447,Ana Maria Teles Carreira
-14859685,Gilberto Buta Lutucuta
-14859767,Miguel Neto
-14859782,Pedro Fernando Mavunza
-14978364,António da Costa Fernandes
-15001719,José Patrício
-35728776,Carolina Cerqueira
-54579350,João Lourenço
-55096269,Bornito de Sousa
-55886279,Maria Filomena de Fátima Lobão Telo Delgado
-61778516,Margarida Rosa da Silva Izata
-63810404,Maria de Jesus dos Reis Ferreira
-64319240,Vera Daves
-65534813,Teodolinda Rosa Rodrigues Coelho
-65617263,Tete António
-66270556,Geraldo Nunda
-68043750,Joaquim do Espirito Santo
-71062166,João Baptista Borges
-71279791,Silvia Lutacuta
+pageid,title,wikidata,label
+393727,Fernando da Piedade Dias dos Santos,Q310815,Fernando da Piedade Dias dos Santos
+5543223,João Bernardo de Miranda,Q3187284,João Bernardo de Miranda
+8809290,Brito Sozinho,Q4971495,Brito Sozinho
+14233711,José João Manuel,Q6279399,Jose João Manuel
+14326296,João Manuel Bernardo,Q6298234,João Manuel Bernardo
+14368447,Ana Maria Teles Carreira,Q4750416,Ana Maria Teles Carreira
+14859685,Gilberto Buta Lutucuta,Q5561350,Gilberto Buta Lutucuta
+14859767,Miguel Neto,Q6844700,Miguel Neto
+14859782,Pedro Fernando Mavunza,Q7159569,Pedro Fernando Mavunza
+14978364,António da Costa Fernandes,Q4777046,Antonio da Costa Fernandes
+15001719,José Patrício,Q6293678,José Patrício
+35728776,Carolina Cerqueira,Q5044792,Carolina Cerqueira
+54579350,João Lourenço,Q28650390,João Lourenço
+55096269,Bornito de Sousa,Q16336949,Bornito de Sousa
+55886279,Maria Filomena de Fátima Lobão Telo Delgado,Q44812203,Maria Filomena de Fátima Lobão Telo Delgado
+61778516,Margarida Rosa da Silva Izata,Q67365647,Margarida Rosa da Silva Izata
+63810404,Maria de Jesus dos Reis Ferreira,Q60868951,Maria de Jesus dos Reis Ferreira
+64319240,Vera Daves,Q96441964,Vera Daves
+65534813,Teodolinda Rosa Rodrigues Coelho,Q100268168,Teodolinda Rosa Rodrigues Coelho
+65617263,Tete António,Q100575931,Tete António
+66270556,Geraldo Nunda,Q105452385,Geraldo Nunda
+68043750,Joaquim do Espirito Santo,Q107343336,Joaquim do Espirito Santo
+71062166,João Baptista Borges,Q10311114,João Baptista Borges Pereira
+71279791,Silvia Lutacuta,Q88650966,Sílvia Lutucuta

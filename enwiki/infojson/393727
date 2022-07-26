@@ -1,0 +1,108 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of the Interior"
+    },
+    "P580": "1999",
+    "P1365": {
+      "links": [
+        "Santana André Pitra"
+      ],
+      "stated_as": "Santana André Pitra"
+    },
+    "P582": "2002",
+    "P1366": {
+      "links": [
+        "Osvaldo de Jesus Serra Van-Dúnem"
+      ],
+      "stated_as": "O. de J.Serra Van-Dúnem"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of heads of government of Angola",
+        "Prime Minister of Angola"
+      ],
+      "stated_as": "4th Prime Minister of Angola"
+    },
+    "P580": "2002-12-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position re-established"
+    },
+    "P582": "2008-09-30",
+    "P1366": {
+      "links": [
+        "Paulo Kassoma"
+      ],
+      "stated_as": "Paulo Kassoma"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Presidents of the National Assembly of Angola",
+        "National Assembly (Angola)"
+      ],
+      "stated_as": "President of the National Assembly of Angola"
+    },
+    "P580": "2008-09-30",
+    "P1365": {
+      "links": [
+        "Roberto Francisco de Almeida"
+      ],
+      "stated_as": "Roberto Francisco de Almeida"
+    },
+    "P582": "2010-02-09",
+    "P1366": {
+      "links": [
+        "Paulo Kassoma"
+      ],
+      "stated_as": "Paulo Kassoma"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Angola"
+      ],
+      "stated_as": "Vice President of Angola"
+    },
+    "P580": "2010-02-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2012-09-26",
+    "P1366": {
+      "links": [
+        "Manuel Vicente"
+      ],
+      "stated_as": "Manuel Vicente"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Presidents of the National Assembly of Angola",
+        "National Assembly (Angola)"
+      ],
+      "stated_as": "President of the National Assembly of Angola"
+    },
+    "P580": "2012-09-27",
+    "P1365": {
+      "links": [
+        "Paulo Kassoma"
+      ],
+      "stated_as": "Paulo Kassoma"
+    }
+  }
+]

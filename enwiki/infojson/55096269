@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Territory Administration"
+    },
+    "P580": "2010-02-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Virgílio de Fontes Pereira"
+    },
+    "P582": "2017",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Adão F.C. de Almeida"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Angola"
+      ],
+      "stated_as": "Vice President of Angola"
+    },
+    "P580": "2017-09-26",
+    "P1365": {
+      "links": [
+        "Manuel Vicente"
+      ],
+      "stated_as": "Manuel Vicente"
+    }
+  }
+]

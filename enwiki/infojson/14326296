@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Malanje"
+    },
+    "P580": "1992",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "João Filipe Martins"
+    },
+    "P582": "1992",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Flávio João Fernandes"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Education (Angola)"
+      ],
+      "stated_as": "Minister of Education of Angola"
+    },
+    "P580": "1992",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "António Burity da Silva"
+    },
+    "P582": "1996",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "António Burity da Silva"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ambassador of Angola to Cuba"
+    },
+    "P580": "1996",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "António Burity da Silva"
+    },
+    "P582": "2002",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Condesse de Carvalho Toka"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ambassador of Angola to China"
+    },
+    "P580": "2002",
+    "P1365": {
+      "links": [
+        "Manuel Bernardo de Sousa"
+      ],
+      "stated_as": "Manuel Bernardo de Sousa"
+    },
+    "P582": "2011",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "João Garcia Bires"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ambassador of Angola to Vietnam"
+    },
+    "P580": "2011",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]

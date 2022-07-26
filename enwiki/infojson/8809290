@@ -1,0 +1,93 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ambassador of Angola to Nigeria"
+    },
+    "P580": "1987",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Armindo Vieira"
+    },
+    "P582": "2000",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Evaristo Domingos Kimba"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ambassador of Angola to Tanzania"
+    },
+    "P580": "2000",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "José Agostinho Neto"
+    },
+    "P582": "2006",
+    "P1366": {
+      "links": [
+        "Ambrósio Lukoki"
+      ],
+      "stated_as": "Ambrósio Lukoki"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ambassador of Angola to Guinea-Bissau"
+    },
+    "P580": "2006",
+    "P582": "2011"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ambassador of Angola to Sweden"
+    },
+    "P580": "2011",
+    "P1365": {
+      "links": [
+        "Domingos Culolo"
+      ],
+      "stated_as": "Domingos Culolo"
+    },
+    "P582": "2014",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Isaías Jaime Vilinga"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ambassador of Angola to Mozambique"
+    },
+    "P580": "2014",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Isaías Jaime Vilinga"
+    }
+  }
+]

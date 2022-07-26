@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of External Relations (Angola)"
+      ],
+      "stated_as": "Foreign Minister of Angola"
+    },
+    "P580": "1999",
+    "P1365": {
+      "links": [
+        "Venâncio da Silva Moura"
+      ],
+      "stated_as": "Venâncio de Moura"
+    },
+    "P582": "2008",
+    "P1366": {
+      "links": [
+        "Assunção dos Anjos"
+      ],
+      "stated_as": "Assunção dos Anjos"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Bengo"
+    },
+    "P580": "2009",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jorge Dombolo"
+    },
+    "P582": "2018",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mara Quiosa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ambassador of Angola to France"
+    },
+    "P580": "2018",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Miguel da Costa"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of National Defence (Angola)"
+      ],
+      "stated_as": "Minister of National Defence"
+    },
+    "P580": "2014-04-22",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Cândido Pereira dos Santos Van-Dúnem"
+    },
+    "P582": "2017-09-26",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Salviano de Jesus Sequeira"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Angola"
+      ],
+      "stated_as": "3rd President of Angola"
+    },
+    "P580": "2017-09-26",
+    "P1365": {
+      "links": [
+        "José Eduardo dos Santos"
+      ],
+      "stated_as": "José Eduardo dos Santos"
+    }
+  }
+]
